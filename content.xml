@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260608181226CADHAU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608181226L9SV8E</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Maqueta del instituto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Semejanza de Triángulos 2ºESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Gómez Gozálvez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje basada en escalas y medición indirecta</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780934584387</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq5egw11-9i58owh16</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw11-9i58owh16</odePageId>
+      <odeBlockId>block-1780924710646-g4tkwdmj8</odeBlockId>
+      <blockName>INICIO</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw11-9i58owh16</odePageId>
+          <odeBlockId>block-1780924710646-g4tkwdmj8</odeBlockId>
+          <odeIdeviceId>idevice-1780924710642-vhvfs0rdq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Serías capaz de construir una maqueta de nuestro instituto sin medir directamente todas sus dimensiones?</p>
+<p>En este proyecto aprenderemos a utilizar la semejanza de triángulos, las escalas y la medición mediante sombras para resolver problemas reales. Trabajaremos en equipo, utilizaremos herramientas digitales y aplicaremos las matemáticas a nuestro entorno más cercano.</p>
+<p>El reto final será diseñar y construir una maqueta del instituto utilizando los conocimientos adquiridos durante el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780924710642-vhvfs0rdq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Serías capaz de construir una maqueta de nuestro instituto sin medir directamente todas sus dimensiones?</p>\n<p>En este proyecto aprenderemos a utilizar la semejanza de triángulos, las escalas y la medición mediante sombras para resolver problemas reales. Trabajaremos en equipo, utilizaremos herramientas digitales y aplicaremos las matemáticas a nuestro entorno más cercano.</p>\n<p>El reto final será diseñar y construir una maqueta del instituto utilizando los conocimientos adquiridos durante el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw14-1z4pqdmej</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw14-1z4pqdmej</odePageId>
+      <odeBlockId>block-1780930576294-ysthu0pgx</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw14-1z4pqdmej</odePageId>
+          <odeBlockId>block-1780930576294-ysthu0pgx</odeBlockId>
+          <odeIdeviceId>idevice-1780930576291-pcouh5uuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿En qué consiste este proyecto?</strong></p>
+<p>Las matemáticas nos ayudan a comprender y representar el mundo que nos rodea. En esta situación de aprendizaje descubriremos cómo la semejanza de triángulos y las escalas permiten calcular medidas reales y representar espacios de forma proporcional.</p>
+<p>Durante varias sesiones trabajaremos en grupo para investigar, medir, calcular y diseñar una maqueta del instituto.</p>
+<p><strong>Objetivos: </strong></p>
+<ul>
+<li>Comprender el concepto de semejanza de triángulos.</li>
+<li>Aplicar escalas en representaciones reales.</li>
+<li>Resolver problemas mediante proporcionalidad.</li>
+<li>Utilizar herramientas digitales para buscar y organizar información.</li>
+<li>Trabajar de forma cooperativa.</li>
+<li>Comunicar los resultados obtenidos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930576291-pcouh5uuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿En qué consiste este proyecto?</strong></p>\n<p>Las matemáticas nos ayudan a comprender y representar el mundo que nos rodea. En esta situación de aprendizaje descubriremos cómo la semejanza de triángulos y las escalas permiten calcular medidas reales y representar espacios de forma proporcional.</p>\n<p>Durante varias sesiones trabajaremos en grupo para investigar, medir, calcular y diseñar una maqueta del instituto.</p>\n<p><strong>Objetivos: </strong></p>\n<ul>\n<li>Comprender el concepto de semejanza de triángulos.</li>\n<li>Aplicar escalas en representaciones reales.</li>\n<li>Resolver problemas mediante proporcionalidad.</li>\n<li>Utilizar herramientas digitales para buscar y organizar información.</li>\n<li>Trabajar de forma cooperativa.</li>\n<li>Comunicar los resultados obtenidos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5egw14-1z4pqdmej</odePageId>
+      <odeBlockId>block-1780933158715-f0w2j67fz</odeBlockId>
+      <blockName>Presentación Canva</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw14-1z4pqdmej</odePageId>
+          <odeBlockId>block-1780933158715-f0w2j67fz</odeBlockId>
+          <odeIdeviceId>idevice-1780933158712-7zce6ufxx</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780933158712-7zce6ufxx" title="" href="{{context_path}}/content/resources/Screenshot_20260608_173954_com_android_chrome_ChromeTabbedActivity.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Screenshot_20260608_173954_com_android_chrome_ChromeTabbedActivity.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="https://canva.link/04elc6apg1hl3eg" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780933158712-7zce6ufxx","img_0":{"img":"{{context_path}}/content/resources/Screenshot_20260608_173954_com_android_chrome_ChromeTabbedActivity.jpg","thumbnail":"{{context_path}}/content/resources/Screenshot_20260608_173954_com_android_chrome_ChromeTabbedActivity.jpg","title":"","linktitle":"","author":"","linkauthor":"https://canva.link/04elc6apg1hl3eg","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw15-lusa3ubgt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto Final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw15-lusa3ubgt</odePageId>
+      <odeBlockId>block-1780930508663-xp78x8b73</odeBlockId>
+      <blockName>Nuestro reto</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw15-lusa3ubgt</odePageId>
+          <odeBlockId>block-1780930508663-xp78x8b73</odeBlockId>
+          <odeIdeviceId>idevice-1780930508659-fg0evl7cl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta situación de aprendizaje consistirá en la elaboración en grupos de trabajo de una maqueta del instituto.</p>
+<p>Para ello será necesario:</p>
+<ul>
+<li>Medir diferentes elementos del entorno.</li>
+<li>Aplicar escalas adecuadas.</li>
+<li>Utilizar la semejanza de triángulos para calcular medidas.</li>
+<li>Obtener medidas indirectas mediante sombras.</li>
+<li>Diseñar y construir la maqueta en equipo.</li>
+<li>Cada grupo presentará su trabajo explicando los cálculos realizados y las decisiones adoptadas durante el proceso.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930508659-fg0evl7cl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta situación de aprendizaje consistirá en la elaboración en grupos de trabajo de una maqueta del instituto.</p>\n<p>Para ello será necesario:</p>\n<ul>\n<li>Medir diferentes elementos del entorno.</li>\n<li>Aplicar escalas adecuadas.</li>\n<li>Utilizar la semejanza de triángulos para calcular medidas.</li>\n<li>Obtener medidas indirectas mediante sombras.</li>\n<li>Diseñar y construir la maqueta en equipo.</li>\n<li>Cada grupo presentará su trabajo explicando los cálculos realizados y las decisiones adoptadas durante el proceso.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw15-yzaqmyt9z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw15-yzaqmyt9z</odePageId>
+      <odeBlockId>block-1780929824903-oz0sgp0w5</odeBlockId>
+      <blockName>Protección de datos y ciudadanía digital</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw15-yzaqmyt9z</odePageId>
+          <odeBlockId>block-1780929824903-oz0sgp0w5</odeBlockId>
+          <odeIdeviceId>idevice-1780929824900-tu0fv9hzp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de utilizar herramientas digitales en el aula es importante conocer los derechos y responsabilidades que tenemos en Internet.</p>
+<p>Debéis hacer un uso seguro, responsable y respetuoso de los recursos digitales, protegiendo su identidad y respetando la de los demás.</p>
+<p><img src="{{context_path}}/content/resources/Indicaciones.png" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780929824900-tu0fv9hzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de utilizar herramientas digitales en el aula es importante conocer los derechos y responsabilidades que tenemos en Internet.</p>\n<p>Debéis hacer un uso seguro, responsable y respetuoso de los recursos digitales, protegiendo su identidad y respetando la de los demás.</p>\n<p><img src=\"{{context_path}}/content/resources/Indicaciones.png\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5ehyb2-kj7aqgqhg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos alumnados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5ehyb2-kj7aqgqhg</odePageId>
+      <odeBlockId>block-1780930352071-fuvcgfc2e</odeBlockId>
+      <blockName>Recursos de apoyo</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5ehyb2-kj7aqgqhg</odePageId>
+          <odeBlockId>block-1780930352071-fuvcgfc2e</odeBlockId>
+          <odeIdeviceId>idevice-1780930352067-d11gzif1g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección encontrarás materiales que te ayudarán a comprender y desarrollar el proyecto de la maqueta del instituto.</p>
+<p>Estos recursos incluyen vídeos explicativos, tutoriales, ejemplos prácticos y actividades de refuerzo sobre semejanza de triángulos, escalas y medición mediante sombras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930352067-d11gzif1g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección encontrarás materiales que te ayudarán a comprender y desarrollar el proyecto de la maqueta del instituto.</p>\n<p>Estos recursos incluyen vídeos explicativos, tutoriales, ejemplos prácticos y actividades de refuerzo sobre semejanza de triángulos, escalas y medición mediante sombras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5ehyb2-kj7aqgqhg</odePageId>
+      <odeBlockId>block-1780933704373-pihww59pd</odeBlockId>
+      <blockName>Panel de recursos del proyecto</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5ehyb2-kj7aqgqhg</odePageId>
+          <odeBlockId>block-1780933704373-pihww59pd</odeBlockId>
+          <odeIdeviceId>idevice-1780933704371-y93vqdjyd</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mgomgoz004/semejanza-2-eso-52ah056a5jj62nyb" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5ehjo4-7zquaeet3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Cronograma</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cronograma</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cronograma</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5ehjo4-7zquaeet3</odePageId>
+      <odeBlockId>block-1780930186372-g8hw1iniy</odeBlockId>
+      <blockName>Organización temporal del proyecto</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5ehjo4-7zquaeet3</odePageId>
+          <odeBlockId>block-1780930186372-g8hw1iniy</odeBlockId>
+          <odeIdeviceId>idevice-1780930186369-o4ck6zd0z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrolla a lo largo de varias sesiones en las que iréis avanzando de forma progresiva desde la comprensión de los contenidos hasta la elaboración del producto final.</p>
+<p>He elaborado una linea temporal para que tengáis las fechas importantes en resumidas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780930186369-o4ck6zd0z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrolla a lo largo de varias sesiones en las que iréis avanzando de forma progresiva desde la comprensión de los contenidos hasta la elaboración del producto final.</p>\n<p>He elaborado una linea temporal para que tengáis las fechas importantes en resumidas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5ehjo4-7zquaeet3</odePageId>
+      <odeBlockId>block-1780933600613-x3wq4zuc6</odeBlockId>
+      <blockName>Linea temporal</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5ehjo4-7zquaeet3</odePageId>
+          <odeBlockId>block-1780933600613-x3wq4zuc6</odeBlockId>
+          <odeIdeviceId>idevice-1780933600610-rfv6i69g6</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a02f1356368068472163005" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5eh72z-7wrg2nxwg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5eh72z-7wrg2nxwg</odePageId>
+      <odeBlockId>block-1780929920922-9p5webejd</odeBlockId>
+      <blockName>Evaluación del aprendizaje</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5eh72z-7wrg2nxwg</odePageId>
+          <odeBlockId>block-1780929920922-9p5webejd</odeBlockId>
+          <odeIdeviceId>idevice-1780929920919-advqmzthi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta situación de aprendizaje será continua, formativa y competencial. Se tendrá en cuenta tanto el proceso de trabajo como el producto final del alumnado.</p>
+<p>Se utilizará la siguiente rúbrica: </p>
+<p><img src="{{context_path}}/content/resources/Screenshot_20260608_154324_com_google_android_apps_docs_editors_docs_KixEditorActi.jpg" width="1200" height="296" alt="" /></p>
+<p>Una vez terminado el proyecto, se evaluará vuestra satisfacción a través de una diana de autoevaluación. Tendréis que arrastrar las estrellas a la diana, posteriormente haréis una captura y la enviaréis por Moodle.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780929920919-advqmzthi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta situación de aprendizaje será continua, formativa y competencial. Se tendrá en cuenta tanto el proceso de trabajo como el producto final del alumnado.</p>\n<p>Se utilizará la siguiente rúbrica: </p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot_20260608_154324_com_google_android_apps_docs_editors_docs_KixEditorActi.jpg\" width=\"1200\" height=\"296\" alt=\"\" /></p>\n<p>Una vez terminado el proyecto, se evaluará vuestra satisfacción a través de una diana de autoevaluación. Tendréis que arrastrar las estrellas a la diana, posteriormente haréis una captura y la enviaréis por Moodle.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5eh72z-7wrg2nxwg</odePageId>
+      <odeBlockId>block-1780933814586-0qzvcyyd6</odeBlockId>
+      <blockName>Diana de autoevaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5eh72z-7wrg2nxwg</odePageId>
+          <odeBlockId>block-1780933814586-0qzvcyyd6</odeBlockId>
+          <odeIdeviceId>idevice-1780933814584-ksapvv2jz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a11fb31bec174462c2b61bf" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw17-kk2ffxw26</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw17-kk2ffxw26</odePageId>
+      <odeBlockId>block-1780929639966-u1g66l63i</odeBlockId>
+      <blockName>Guía Didáctica:</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw17-kk2ffxw26</odePageId>
+          <odeBlockId>block-1780929639966-u1g66l63i</odeBlockId>
+          <odeIdeviceId>idevice-1780929639964-23ixmuacj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se enmarca en el área de Matemáticas para 2º ESO y se basa en el aprendizaje competencial y el trabajo por proyectos.</p>
+<p>El alumnado trabajará de forma cooperativa para aplicar los contenidos de semejanza de triángulos, escalas y medición indirecta en la resolución de un reto real: la construcción de una maqueta del instituto.</p>
+<p>La siguiente tabla muestra como las distintas tareas se relacionan con los criterios de evaluación: </p>
+<p><img src="{{context_path}}/content/resources/Screenshot_20260608_161558.jpg" width="1200" height="481" alt="" /><img src="{{context_path}}/content/resources/Screenshot_20260608_155656_com_google_android_apps_docs_editors_docs_KixEditorActi.jpg" width="1200" height="507" alt="" /></p>
+<p>Las tareas 3, 4, 5 y 6 evalúan también los criterios relacionados con el trabajo en equipo: </p>
+<ul>
+<li>10.1 Colaborar activamente y construir relaciones saludables en el trabajo matemáticas heterogéneos, diferentes en de las equipos respetando opiniones, iniciándose en el desarrollo de destrezas: de comunicación efectiva, de planificación, de indagación, de motivación y confianza en sus propias posibilidades y de pensamiento crítico y creativo, tomando decisiones y realizando juicios informados.</li>
+<li>10.2 Participar en el reparto de tareas que deban desarrollarse en equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas cuestiones individuales responsabilizándose a y de la propia contribución al equipo. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780929639964-23ixmuacj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se enmarca en el área de Matemáticas para 2º ESO y se basa en el aprendizaje competencial y el trabajo por proyectos.</p>\n<p>El alumnado trabajará de forma cooperativa para aplicar los contenidos de semejanza de triángulos, escalas y medición indirecta en la resolución de un reto real: la construcción de una maqueta del instituto.</p>\n<p>La siguiente tabla muestra como las distintas tareas se relacionan con los criterios de evaluación: </p>\n<p><img src=\"{{context_path}}/content/resources/Screenshot_20260608_161558.jpg\" width=\"1200\" height=\"481\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Screenshot_20260608_155656_com_google_android_apps_docs_editors_docs_KixEditorActi.jpg\" width=\"1200\" height=\"507\" alt=\"\" /></p>\n<p>Las tareas 3, 4, 5 y 6 evalúan también los criterios relacionados con el trabajo en equipo: </p>\n<ul>\n<li>10.1 Colaborar activamente y construir relaciones saludables en el trabajo matemáticas heterogéneos, diferentes en de las equipos respetando opiniones, iniciándose en el desarrollo de destrezas: de comunicación efectiva, de planificación, de indagación, de motivación y confianza en sus propias posibilidades y de pensamiento crítico y creativo, tomando decisiones y realizando juicios informados.</li>\n<li>10.2 Participar en el reparto de tareas que deban desarrollarse en equipo, aportando valor, asumiendo las normas de convivencia, y aplicándolas de manera constructiva, dialogante e inclusiva, reconociendo los estereotipos e ideas preconcebidas sobre las matemáticas asociadas cuestiones individuales responsabilizándose a y de la propia contribución al equipo. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw17-ak2o1raij</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos docentes</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw17-ak2o1raij</odePageId>
+      <odeBlockId>block-1780931222673-z885wocgu</odeBlockId>
+      <blockName>Recursos para el profesorado</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw17-ak2o1raij</odePageId>
+          <odeBlockId>block-1780931222673-z885wocgu</odeBlockId>
+          <odeIdeviceId>idevice-1780931222671-u0sa46i70</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección se recogen herramientas digitales útiles para la gestión del aula, la creación de recursos educativos y la evaluación del aprendizaje.</p>
+<p>Estos recursos han sido seleccionados para facilitar la práctica docente y mejorar la implementación de situaciones de aprendizaje basadas en metodologías activas.</p>
+<p>Acceso al panel de recursos para el profesorado pinchando <a href="https://www.symbaloo.com/shared/AAAAARM5l8wAA41-5EaM-A==" title="">AQUÍ</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780931222671-u0sa46i70","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección se recogen herramientas digitales útiles para la gestión del aula, la creación de recursos educativos y la evaluación del aprendizaje.</p>\n<p>Estos recursos han sido seleccionados para facilitar la práctica docente y mejorar la implementación de situaciones de aprendizaje basadas en metodologías activas.</p>\n<p>Acceso al panel de recursos para el profesorado pinchando <a href=\"https://www.symbaloo.com/shared/AAAAARM5l8wAA41-5EaM-A==\" title=\"\">AQUÍ</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq5egw18-u35mswkge</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq5egw18-u35mswkge</odePageId>
+      <odeBlockId>block-1780931622890-e8jmvhjpr</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw18-u35mswkge</odePageId>
+          <odeBlockId>block-1780931622890-e8jmvhjpr</odeBlockId>
+          <odeIdeviceId>idevice-1780931622888-jptk2tb4k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>DESCRIPCIÓN: </strong>Este recurso educativo ha sido elaborado como parte de una Situación de Aprendizaje para 2º ESO de Matemáticas, centrada en la semejanza de triángulos, escalas y medición indirecta.</p>
+<p><strong>AUTORÍA: </strong>Profesora María Gómez<strong></strong></p>
+<p><strong>LICENCIA: </strong>Este material se publica bajo licencia Creative Commons CC BY-NC-SA 4.0, que permite su uso educativo, no comercial y con atribución.</p>
+<p><strong>RECURSOS UTILIZADOS: </strong>Se han utilizado herramientas digitales educativas como eXeLearning, Canva, Genially y Symbaloo, entre otras, respetando las licencias de uso de cada recurso.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780931622888-jptk2tb4k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>DESCRIPCIÓN: </strong>Este recurso educativo ha sido elaborado como parte de una Situación de Aprendizaje para 2º ESO de Matemáticas, centrada en la semejanza de triángulos, escalas y medición indirecta.</p>\n<p><strong>AUTORÍA: </strong>Profesora María Gómez<strong></strong></p>\n<p><strong>LICENCIA: </strong>Este material se publica bajo licencia Creative Commons CC BY-NC-SA 4.0, que permite su uso educativo, no comercial y con atribución.</p>\n<p><strong>RECURSOS UTILIZADOS: </strong>Se han utilizado herramientas digitales educativas como eXeLearning, Canva, Genially y Symbaloo, entre otras, respetando las licencias de uso de cada recurso.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq5egw18-u35mswkge</odePageId>
+      <odeBlockId>block-1780931986657-7f4kh0evk</odeBlockId>
+      <blockName>Descarga</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq5egw18-u35mswkge</odePageId>
+          <odeBlockId>block-1780931986657-7f4kh0evk</odeBlockId>
+          <odeIdeviceId>idevice-1780931986655-smozq6j56</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Descarga del proyecto editable <a href="https://drive.google.com/file/d/1iREvNoAxOGvn4WSXiGBxgh_VM73J4KcH/view?usp=drivesdk" title="">AQUÍ</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780931986655-smozq6j56","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Descarga del proyecto editable <a href=\"https://drive.google.com/file/d/1iREvNoAxOGvn4WSXiGBxgh_VM73J4KcH/view?usp=drivesdk\" title=\"\">AQUÍ</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
